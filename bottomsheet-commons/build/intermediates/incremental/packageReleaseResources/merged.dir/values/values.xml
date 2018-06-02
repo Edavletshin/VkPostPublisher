@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="divider_gray">#AAe2e2e2</color>
+    <color name="text_gray">#8C000000</color>
+    <dimen name="bottomsheet_grid_text_spacing">8dp</dimen>
+    <dimen name="bottomsheet_image_tile_spacing">20dp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.flipboard.bottomsheet.commons.ImagePickerSheetImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/thumb"
+    android:layout_width="84dp"
+    android:layout_height="84dp"
+    />

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.flipboard.bottomsheet.BottomSheetLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottomsheet"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <RelativeLayout
+        android:id="@+id/activity_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/backrel"
+            android:layout_above="@+id/frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:id="@+id/centerelative"
+                android:layout_centerInParent="true"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <com.xiaopo.flying.sticker.StickerView
+                    android:id="@+id/sticker_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    app:showBorder="true"
+                    app:showIcons="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:layout_centerInParent="true"
+                            android:id="@+id/mainimg"
+                            android:background="#FFFFFF"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerCrop"/>
+
+                        <ImageView
+                            android:background="@android:color/transparent"
+                            
+                            android:layout_centerInParent="true"
+                            android:visibility="gone"
+                            android:scaleType="fitEnd"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:src="@drawable/bg_beach_bottom"
+                            android:id="@+id/imageView2" />
+
+                        <ImageView
+                            android:background="@android:color/transparent"
+                            android:layout_centerInParent="true"
+                            android:visibility="gone"
+                            android:scaleType="fitStart"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:src="@drawable/bg_beach_top"
+                            android:id="@+id/imageView3" />
+
+                        <com.xiaopo.flying.sticker.StickerView
+                            android:id="@+id/main_stickers"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"/>
+
+                        <android.support.v7.widget.AppCompatTextView
+                            android:shadowColor="#1e000000"
+                            android:shadowDy="0.5"
+                            android:textSize="24sp"
+                            android:fontFamily="sans-serif"
+                            android:textStyle="bold"
+                            android:gravity="center"
+                            android:background="@android:color/transparent"
+                            android:id="@+id/copyText"
+                            android:layout_width="314dp"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true"/>
+
+                        <edavletshin.com.vkpostpublisher.util.CustomEditText
+                            android:privateImeOptions="nm"
+                            android:textCursorDrawable="@null"
+                            android:shadowDy="0.5"
+                            android:textSize="24sp"
+                            android:fontFamily="sans-serif"
+                            android:textStyle="bold"
+                            android:gravity="center"
+                            android:background="@android:color/transparent"
+                            android:inputType="text|textNoSuggestions|textMultiLine|textVisiblePassword"
+                            android:id="@+id/wazzap"
+                            android:textColor="#2c2d2e"
+                            android:layout_width="312dp"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true"
+                            android:hint="Что у вас нового?"/>
+
+                    </RelativeLayout>
+                </com.xiaopo.flying.sticker.StickerView>
+
+                    <ImageView
+                        android:visibility="gone"
+                        android:layout_alignParentBottom="true"
+                        android:id="@+id/trash"
+                        android:scaleType="centerInside"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/trash_background"
+                        android:layout_marginBottom="16dp"
+                        android:layout_width="48dp"
+                        android:layout_height="48dp"
+                        android:src="@mipmap/ic_fab_trash"/>
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+         <RelativeLayout
+            android:background="#D9FFFFFF"
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="48dp">
+
+
+                <android.support.design.widget.TabLayout
+                    android:scaleY="-1"
+                    android:layout_centerInParent="true"
+                    android:id="@+id/tabs"
+                    android:layout_width="wrap_content"
+                    android:layout_height="48dp" />
+
+                <ImageButton
+                    android:layout_alignParentLeft="true"
+                    android:src="@mipmap/ic_toolbar_font"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:id="@+id/textStyle"/>
+
+                <ImageButton
+                    android:layout_alignParentRight="true"
+                    android:src="@mipmap/ic_toolbar_sticker"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:id="@+id/stickers"/>
+
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/kek"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:background="#E6FFFFFF"
+            android:layout_above="@+id/frame">
+
+            <HorizontalScrollView
+                android:background="@drawable/gray_line"
+                android:layout_weight="0.4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scrollbars="none">
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="12dp"
+                    android:paddingBottom="12dp">
+
+
+
+                    <android.support.design.widget.CheckableImageButton
+                        android:clickable="true"
+                        android:id="@+id/cib1"
+                        android:src="@drawable/buttonbackground"
+                        android:background="@drawable/white"
+                        android:layout_gravity="center"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginRight="6dp"/>
+
+                    <android.support.design.widget.CheckableImageButton
+                        android:clickable="true"
+                        android:id="@+id/cib2"
+                        android:src="@drawable/buttonbackground"
+                        android:background="@drawable/gradient_blue"
+                        android:layout_gravity="center"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginRight="6dp" />
+
+                    <android.support.design.widget.CheckableImageButton
+                        android:id="@+id/cib3"
+                        android:clickable="true"
+                        android:src="@drawable/buttonbackground"
+                        android:background="@drawable/gradient_green"
+                        android:layout_gravity="center"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginRight="6dp" />
+
+                    <android.support.design.widget.CheckableImageButton
+                        android:id="@+id/cib4"
+                        android:clickable="true"
+                        android:src="@drawable/buttonbackground"
+                        android:background="@drawable/gradient_orange"
+                        android:layout_gravity="center"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginRight="6dp" />
+
+                    <android.support.design.widget.CheckableImageButton
+                        android:id="@+id/cib5"
+                        android:clickable="true"
+                        android:src="@drawable/buttonbackground"
+                        android:background="@drawable/gradient_red"
+                        android:layout_gravity="center"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginRight="6dp" />
+
+                    <android.support.design.widget.CheckableImageButton
+                        android:id="@+id/cib6"
+                        android:clickable="true"
+                        android:src="@drawable/buttonbackground"
+                        android:background="@drawable/gradient_purple"
+                        android:layout_gravity="center"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginRight="6dp" />
+
+                    <android.support.design.widget.CheckableImageButton
+                        android:id="@+id/cib7"
+                        android:clickable="true"
+                        android:src="@drawable/buttonbackground"
+                        android:background="@mipmap/thumb_beach"
+                        android:layout_gravity="center"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginRight="6dp" />
+
+                    <android.support.design.widget.CheckableImageButton
+                        android:id="@+id/cib8"
+                        android:clickable="true"
+                        android:src="@drawable/buttonbackground"
+                        android:background="@mipmap/thumb_stars"
+                        android:layout_gravity="center"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginRight="6dp" />
+
+
+                    <RelativeLayout
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginRight="6dp">
+
+                        <View
+                            android:background="@drawable/white_blue"
+                            android:layout_width="32dp"
+                            android:layout_height="32dp" />
+
+                        <android.support.design.widget.CheckableImageButton
+                            android:scaleType="center"
+                            android:id="@+id/cib9"
+                            android:clickable="true"
+                            android:src="@drawable/buttonbackground"
+                            android:background="@mipmap/ic_toolbar_new"
+                            android:layout_gravity="center"
+                            android:layout_width="32dp"
+                            android:layout_height="32dp">
+                        </android.support.design.widget.CheckableImageButton>
+
+                    </RelativeLayout>
+
+                </LinearLayout>
+
+            </HorizontalScrollView>
+
+            <RelativeLayout
+                android:background="@drawable/gray_line"
+                android:layout_weight="0.6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:enabled="false"
+                    android:id="@+id/sendButton"
+                    android:paddingRight="16dp"
+                    android:paddingLeft="16dp"
+                    android:textSize="13sp"
+                    android:gravity="center"
+                    android:textColor="#FFFFFF"
+                    android:text="@string/send"
+                    android:background="@drawable/bacground_for_sendbtn"
+                    android:layout_centerInParent="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="32dp" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <FrameLayout
+            android:id="@+id/frame"
+            android:layout_alignParentBottom="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <net.cachapa.expandablelayout.ExpandableLayout
+                android:id="@+id/expandable_layout"
+                android:layout_width="match_parent"
+                android:layout_height="222.5dp"
+                app:el_duration="50"
+                app:el_expanded="false"
+                app:el_parallax="1000">
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/fram" />
+
+            </net.cachapa.expandablelayout.ExpandableLayout>
+        </FrameLayout>
+
+    </RelativeLayout>
+
+</com.flipboard.bottomsheet.BottomSheetLayout>

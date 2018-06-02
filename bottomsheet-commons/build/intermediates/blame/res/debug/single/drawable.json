@@ -1,0 +1,598 @@
+[
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s12.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s12.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s18.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s18.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s21.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s21.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s9.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s9.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s19.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s19.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s20.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s20.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_checked_mtrl.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s11.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s11.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_share_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_share_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\a.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\a.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s14.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s14.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s8.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s8.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\b.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\b.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s24.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s24.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_copy_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_copy_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s2.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s2.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s23.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s23.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s9.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s9.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s3.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s3.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s15.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s15.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s11.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s11.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\white_blue.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\white_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s14.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s14.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s3.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s3.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s24.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s24.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s6.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s6.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s21.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s21.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s17.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s17.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s5.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s5.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_paste_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_paste_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s13.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s13.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s4.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s4.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s12.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s12.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s20.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s20.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s18.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s18.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s5.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s5.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s6.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s6.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s2.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s2.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s22.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s22.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s10.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s10.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s17.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s17.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_off_mtrl.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_selectall_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_selectall_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s7.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s7.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s1.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s1.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s16.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s16.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\white_blue.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\white_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s15.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s15.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\b.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\b.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s8.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s8.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s23.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s23.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s22.png",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s22.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_cut_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_cut_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s16.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s16.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\a.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\a.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s7.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s7.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s19.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s19.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonbackground.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\buttonbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_on_mtrl.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s4.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s4.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonbackground.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\buttonbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s13.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s13.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s1.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s1.png"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\s10.png",
+        "source": "C:\\Users\\DNS\\Desktop\\VkPostPublisher\\bottomsheet-commons\\src\\main\\res\\drawable\\s10.png"
+    },
+    {
+        "merged": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\edgar\\Desktop\\otherProjects\\VkPostPublisher\\bottomsheet-commons\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    }
+]

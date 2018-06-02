@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_color">
+
+    <ImageView
+        android:scaleType="centerInside"
+        android:src="@mipmap/ic_logo"
+        android:layout_width="82dp"
+        android:layout_height="48dp"
+        android:layout_centerInParent="true"/>
+
+    <Button
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        style="@style/Base.Widget.AppCompat.Button.Borderless.Colored"
+        android:onClick="Enter"
+        android:text="@string/enter"
+        android:layout_height="48dp"
+        android:id="@+id/btnSignIn"
+        android:layout_width="match_parent"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:background="@drawable/splash_for_button"/>
+
+</RelativeLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/all"
+    android:background="@android:color/white">
+
+    <RelativeLayout
+        android:layout_centerInParent="true"
+        android:id="@+id/center"
+        android:layout_width="48dp"
+        android:layout_height="48dp">
+
+        <ProgressBar
+            android:id="@+id/progressbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <ImageView
+            android:visibility="invisible"
+            android:scaleType="centerInside"
+            android:src="@mipmap/ic_loader_success"
+            android:id="@+id/done"
+            android:layout_width="48dp"
+            android:layout_height="48dp"/>
+
+        <View
+            android:visibility="invisible"
+            android:id="@+id/animfortick"
+            android:background="@android:color/white"
+            android:layout_width="48dp"
+            android:layout_height="48dp"/>
+
+        <View
+            android:visibility="invisible"
+            android:id="@+id/background"
+            android:background="@drawable/done_background"
+            android:layout_width="48dp"
+            android:layout_height="48dp" />
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/pubtext"
+        android:text="@string/publicating"
+        android:textColor="#909499"
+        android:textSize="16sp"
+        android:layout_marginTop="0dp"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:gravity="center"
+        android:visibility="gone"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        style="@style/Base.Widget.AppCompat.Button.Borderless.Colored"
+        android:text="@string/cancel"
+        android:layout_height="48dp"
+        android:fontFamily="sans-serif-medium"
+        android:id="@+id/btncancel_repeat"
+        android:layout_width="match_parent"
+        android:textColor="#528bcc"
+        android:textSize="16sp"
+        android:background="@drawable/splash_for_button1"/>
+
+</RelativeLayout>

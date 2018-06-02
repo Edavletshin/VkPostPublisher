@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VkPostPublisher</string>
+    <string name="linkOnVk">https://vk.com/</string>
+    <string name="enter">Войти через вконтакте</string>
+    <string name="send">Отправить</string>
+    <string name="publicating">Публикация...</string>
+    <string name="publicated">Опубликовано!</string>
+    <string name="cancel">Отмена</string>
+    <string name="repeat">Создать ещё</string>
+    <string name="history">История</string>
+    <string name="post">Запись</string>
+    <integer name="com_vk_sdk_AppId">6174496</integer>
+</resources>
